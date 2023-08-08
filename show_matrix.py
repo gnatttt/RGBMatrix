@@ -64,7 +64,7 @@ def display_info(art_name):
     print("    CURRENTLY DISPLAYING")
     print("        " + art_name)
     print()
-    print("   epic program created by")
+    print("   epic program created by nhat")
     print("==============================")
 
 
